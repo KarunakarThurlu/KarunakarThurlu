@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **SpringBoot and React.Js**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Kafka, Docker**
 
-- 👯 I’m looking to collaborate on **React.Js**
+- 👯 I’m looking to collaborate on Full Stack Development **ReactJS SpringBoot PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarunakarThurlu](https://github.com/KarunakarThurlu)
 
@@ -23,9 +23,11 @@
 </div>
 
 
-<h1>Tech Stack:</h1>
-<div style="font-size: 1.25em; font-weight: bold;">Frontend: HTML, CSS, JavaScript, React.js 📱</div> 
-<div style="font-size: 1.25em; font-weight: bold;">Backend: Java, SpringBoot, Node.js 🖥️</div> 
-<div style="font-size: 1.25em; font-weight: bold;">Database: PostgreSQL, MongoDB, MySQL 🛠️  </div> 
-<div style="font-size: 1.25em; font-weight: bold;">Testing: JUnit, Vitest 🃏</div>
+<h1>My Tech Stack:</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=java,spring,postgresql,graphql,eclipse,gradle,github,mongodb,expressjs,react,nodejs,vite,materialui&theme=dark"/>
+  </a>
+</p>
+
 
