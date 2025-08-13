@@ -12,14 +12,14 @@
 
 - 💬 Ask me about **Java, SpringBoot, React.Js**
 
-- 📄 Know about my experiences [https://www.hackerrank.com/karunakarthurlu](https://www.hackerrank.com/karunakarthurlu)
+- 📄 Know about my experiences [https://karunakarthurlu.github.io/karun](https://karunakarthurlu.github.io/karun)
 
 <div align="center">
   <h2>GitHub Profile Views !</h2>
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KarunakarThurlu/count.svg?" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KarunakarThurlu&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
 
 
